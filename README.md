@@ -3,7 +3,7 @@
 
 <br /><br />
 
-- 💻 Currently working on **Fortics technology** 🇧🇷.
+- 💻 Currently working on **Rede Parcerias** 🇧🇷.
 - 🎯 Currently exploring a little more of the go language.
 
 <br /><br />
